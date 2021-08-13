@@ -213,10 +213,10 @@ padding: 5vh;
   animation: 1s slideTop;
   padding: 1rem;
   border-radius: 10px;
-  background-color: #F7D6BF;
-  color: #8c3333;
+  background-color: #914E3F;
+  color: black;
   font-weight: bold;
-  font-family: "Montserrat";
+/*   font-family: "Montserrat"; */
   cursor: pointer;
   text-align: center;
 }
