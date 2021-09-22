@@ -256,7 +256,8 @@ padding: 5vh;
 }
 
 .footer-breaker{
-  background-color:lightgrey;
-  height:10vh;
+  background-color:#e9e5e5;
+  margin:5vh;
+  height:15vh;
   width:100vw;
 }
