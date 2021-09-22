@@ -254,3 +254,9 @@ padding: 5vh;
 #displayProducts h3 {
   font-size: 1.5em;
 }
+
+.footer-break{
+  background-color:lightgrey;
+  height:10vh;
+  width:100vw;
+}
